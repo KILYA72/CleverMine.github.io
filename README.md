@@ -1,1 +1,1 @@
-# CleverMine.github.io
+# clevermine.github.io
