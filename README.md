@@ -11,10 +11,5 @@
         <li>Техно сервер</li>
       </ol>
       <p class="post">Узнать подробнее о проете можете у нас в Discord канале</p>
-
-      <a href="https://discord.gg/aBZkAeYesr" class="link-discord" target="_blank">Присоединится к проекту</a>
-      <p>На сайте есть пасхалочки, кста.. <b>разраб мудак</b></p>
-
-    </div>
   </body>
 </html>
